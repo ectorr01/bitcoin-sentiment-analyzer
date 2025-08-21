@@ -1,5 +1,7 @@
 # Bitcoin Sentiment Analyzer
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuo-username/bitcoin-sentiment-analyzer/blob/main/bitcoin_sentiment.ipynb)
+
 A simple machine learning project that analyzes the sentiment of tweets about Bitcoin and compares it with the cryptocurrency's price over time.
 
 This project is part of my learning journey in **Python, machine learning, and data analysis**. It uses:
